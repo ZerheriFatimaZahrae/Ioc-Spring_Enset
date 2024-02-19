@@ -6,12 +6,12 @@
   <img  src="screenshots/img.png">
  <p>
 2. Créer une implémentation de cette interface <br>
-1er implemntation : version Base de Donnees
+1 er implemntation : version Base de Donnees
 </p>
 <img src="screenshots/img_1.png">
-<p>2eme implemntation : version Web Service</p>
+<p>2 eme implemntation : version Web Service</p>
 <img src="screenshots/img_2.png">
-<p>3eme implemntation : version Capteur</p>
+<p>3 eme implemntation : version Capteur</p>
 
 <img src="screenshots/img_3.png">
 <p>
@@ -24,7 +24,7 @@
 </p>
 <img src="screenshots/img_5.png">
 <p>
-5. Faire l'injection des dépendances :
+5. Faire l'injection des dépendances : <br>
   a. Par instanciation statique
 </p>
 <img src="screenshots/img_6.png">
@@ -33,7 +33,7 @@
 <p>Fichier config.txt</p>
 <img src="screenshots/img_8.png">
 <p>
-c. En utilisant le Framework Spring
+c. En utilisant le Framework Spring <br>
        - Version XML
 </p>
 <img src="screenshots/img_9.png">
